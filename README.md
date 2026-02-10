@@ -12,9 +12,12 @@ TypeCharter visualizes (WPM) over time with daily and rolling averages. Compatib
   python typecharter.py
   ```
 
-- Then, use the file browser window to upload a single or multiple .csv files for visualization.'
+- Then, use the file browser window to upload a single or multiple .csv files for visualization.
 
 ## Requirements
 - Python 3.9+
 - matplotlib
 - pandas
+
+## Author
+Vesislav Dimitrov
